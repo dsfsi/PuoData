@@ -48,7 +48,11 @@ Bibtex Reference
 }
 ```
 
+## License
 
+The license of PuoData is in CC-BY-SA-4.0.  the monolingual data have difference licenses depending on the news website license
+* License for Data - [CC-BY-SA-4.0](LICENSE)
+  
 ## Dataset Contact
 
 For more details, reach out or check our [website](https://dsfsi.github.io/).
